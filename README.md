@@ -1,2 +1,3 @@
 # README #
-"Commiting changes"
+This is my first GitHub repo!
+Bask in the Glory!
